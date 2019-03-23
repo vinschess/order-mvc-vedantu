@@ -1,0 +1,17 @@
+/Users/vinaygupta/IdeaProjects/springmvcvedantu/src/main/java/com/vedantu/dao/order/OrderDetailsDaoImpl.java
+/Users/vinaygupta/IdeaProjects/springmvcvedantu/src/main/java/com/vedantu/dao/order/OrderDetailsDao.java
+/Users/vinaygupta/IdeaProjects/springmvcvedantu/src/main/java/com/vedantu/models/Inventory.java
+/Users/vinaygupta/IdeaProjects/springmvcvedantu/src/main/java/com/vedantu/models/Account.java
+/Users/vinaygupta/IdeaProjects/springmvcvedantu/src/main/java/com/vedantu/dao/inventory/InventoryDaoImpl.java
+/Users/vinaygupta/IdeaProjects/springmvcvedantu/src/main/java/com/vedantu/dao/order/OrderDao.java
+/Users/vinaygupta/IdeaProjects/springmvcvedantu/src/main/java/com/vedantu/dao/account/AccountDaoImpl.java
+/Users/vinaygupta/IdeaProjects/springmvcvedantu/src/main/java/com/vedantu/dto/OrderDto.java
+/Users/vinaygupta/IdeaProjects/springmvcvedantu/src/main/java/com/vedantu/dao/account/AccountDao.java
+/Users/vinaygupta/IdeaProjects/springmvcvedantu/src/main/java/com/vedantu/models/Orders.java
+/Users/vinaygupta/IdeaProjects/springmvcvedantu/src/main/java/com/vedantu/config/AppConfig.java
+/Users/vinaygupta/IdeaProjects/springmvcvedantu/src/main/java/com/vedantu/dao/inventory/InventoryDao.java
+/Users/vinaygupta/IdeaProjects/springmvcvedantu/src/main/java/com/vedantu/dao/order/OrderDaoImpl.java
+/Users/vinaygupta/IdeaProjects/springmvcvedantu/src/main/java/com/vedantu/mapper/InventoryMapper.java
+/Users/vinaygupta/IdeaProjects/springmvcvedantu/src/main/java/com/vedantu/OrderController.java
+/Users/vinaygupta/IdeaProjects/springmvcvedantu/src/main/java/com/vedantu/mapper/AccountMapper.java
+/Users/vinaygupta/IdeaProjects/springmvcvedantu/src/main/java/com/vedantu/models/OrderDetails.java
